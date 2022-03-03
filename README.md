@@ -1,8 +1,8 @@
 # Olá, Sou Jonas Moreira
 
-- 📚 Sitemas de Informação
+- 📚 Sistemas de Informação
 - 🌱 Universidade Federal do Amazonas ICET/UFAM
-- 📫 Developer Python 
+- 📫 Python 
 - 💡 Em busca de conhecimento 
 
   
