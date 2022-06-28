@@ -1,15 +1,15 @@
+from tkinter import CENTER
 from PySimpleGUI import PySimpleGUI as sg
 
 # Criar as janelas e estilos (layout)
 def janela_login():
     sg.theme('black')
     layout = [
-        [sg.Text('Usuário'),sg.Input(key='Usuario',size=(30,1))],   #linha1
-        [sg.Text('Senha:'),sg.Input(key='Senha', password_char='*', size=(30,1))], #linha 2 
-        [sg.Checkbox('Salvar o login?')], #linha 3
-        [sg.Button('Entrar')]
+        [sg.Text('Usuário: '),sg.Input(key='Usuario',size=(20,1))],   #linha1
+        [sg.Text('Senha:  '),sg.Input(key='Senha', password_char='*', size=(20,1))], #linha 2 
+        [sg.Button('Entrar'), sg.Button('Cancelar')],
     ]
-    return sg.Window('Login', layout=layout, finalize=True)
+    return sg.Window('Cadastro Digital', layout=layout, size = (600,600), finalize=True)
 def janela_menu():
     sg.theme('black')
     layout = [
@@ -17,7 +17,7 @@ def janela_menu():
         [sg.Button('Voltar'), sg.Button('Continuar')],
         [sg.Text('  ')]
     ]
-    return sg.Window('Menu', layout=layout, finalize=True)
+    return sg.Window('Menu', layout=layout, size = (600,600), finalize=True)
 # Eventos
 def janela_inicio():
     sg.theme('black')
@@ -25,15 +25,15 @@ def janela_inicio():
         [sg.Text('Seja Bem vindo ao meu Primerio Aplicativo', )],
         [sg.Button('Voltar')]
     ]
-    return sg.Window('Tela incial', layout=layout, finalize=True)
+    return sg.Window('Tela incial', layout=layout, size = (600,600), finalize=True)
 
-janela1, janela2 = janela_login(), janela_menu
-janela3 = janela_inicio()
+janela1, janela2 = janela_login(), None
+#janela3 = janela_inicio()
 # Criar loop de eventos
 
 while True:
     window, eventos = sg.read_all_windows()
-    if window  == janela1 and eventos == sg.WINDOW_CLOSED:
+    if window  == janela1 or eventos == sg.WINDOW_CLOSED:
         break
     if window  == janela1 and eventos == 'Entrar':
      janela2
