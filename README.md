@@ -1,6 +1,6 @@
 # Olá, Sou Jonas Moreira
 
-- 📚 Graduando em Sistemas de Informação
+- 📚 Graduando em Sistemas de Informação 3°
 - 🌱 Universidade Federal do Amazonas ICET/UFAM
 - 📫 Desenvolvedor Backend | Python 
 - 💡 Em busca de conhecimento e novos desafios!
