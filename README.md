@@ -15,8 +15,8 @@
 
 <div>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-    <img align="center" height="35" width="35" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
-    <img align="left" height="100" width="100" src="https://icongr.am/devicon/python-original-wordmark.svg?size=148&color=currentColor">
+      <img align="center" height="35" width="35" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
+      <img align="center" height="100" width="100" src="https://icongr.am/devicon/python-original-wordmark.svg?size=148&color=currentColor">
 </div>
 
 <div>
