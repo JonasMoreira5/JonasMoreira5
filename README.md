@@ -13,17 +13,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMoreira5&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 
-# Linguagem dominadas
 <div>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-      <img align="center" height="50" width="50" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
-      <img align="center" height="130" width="130" src="https://icongr.am/devicon/python-original-wordmark.svg?size=148 color=currentColor">
-      
-</div>
-
-
-<div>
-
-  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+   <img align="center" alt="Jonas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Jonas-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+           
 </div>
