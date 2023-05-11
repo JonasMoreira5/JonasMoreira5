@@ -13,6 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMoreira5&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 
+# Linguagem dominadas
 <div>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
       <img align="center" height="50" width="50" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
