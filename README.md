@@ -2,7 +2,7 @@
 
 - 📚 Graduando em Sistemas de Informação (4° Periodo)
 - 🌱 Universidade Federal do Amazonas ICET/UFAM
-- 📫 Desenvolvedor Backend | Python | C
+- 📫 Desenvolvedor Backend | Python | Java | C
 - 💡 Em busca de conhecimento e novos desafios!
 
   
