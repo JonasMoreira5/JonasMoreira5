@@ -2,7 +2,7 @@
 
 - 📚 Graduando em Sistemas de Informação (6° Periodo)
 - 🌱 Universidade Federal do Amazonas ICET/UFAM
-- 📫 Desenvolvedor Backend | Python | Java | C | PHP
+- 📫 Desenvolvedor Backend | Python | Java | C | PHP | JavaScript
 - 💡 Em busca de conhecimento e novos desafios!
 
   
