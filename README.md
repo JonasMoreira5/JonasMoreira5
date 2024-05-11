@@ -2,7 +2,6 @@
 
 - 📚 Graduando em Sistemas de Informação
 - 🌱 Universidade Federal do Amazonas ICET/UFAM
-- 📫 Desenvolvedor Backend
 - 💡 Em busca de conhecimento e novos desafios!
 
   
